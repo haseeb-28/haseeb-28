@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:haseeb.79e@gmail.com"><img src="https://img.shields.io/badge/Email-haseeb.79e@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/haseeb-ur-rehman"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/haseeb-ur-rehman](https://www.linkedin.com/in/haseeb-ur-rehman-40b00930b/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=haseeb-28&style=for-the-badge&color=22c55e&label=Profile+Views" />
 </p>
 

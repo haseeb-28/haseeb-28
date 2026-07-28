@@ -1,3 +1,12 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/haseeb-28/haseeb-28/main/dark.svg">
+ <source media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/haseeb-28/haseeb-28/main/light.svg">
+ <img alt="Haseeb Ur Rehman" src="https://raw.githubusercontent.com/haseeb-28/haseeb-28/main/light.svg">
+</picture>
+
+
 <div align="center">
 
 <!-- Terminal-style header with JetBrains Mono feel via readme-typing-svg -->

@@ -28,6 +28,22 @@
 
 
 <div align="center">
+<a href="https://www.linkedin.com/in/haseeb-ur-rehman-40b00930b/">
+ <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:haseeb.79e@gmail.com">
+ <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://haseeb-28.github.io/">
+ <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
+</a>
+</div>
+
+
+
+<div align="center">
 
 <!-- Terminal-style header with JetBrains Mono feel via readme-typing-svg -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=00FFA3&center=true&vCenter=true&repeat=true&width=650&lines=%24+whoami+%E2%86%92+Haseeb+Ur+Rehman;%24+role+%E2%86%92+Full+Stack+%2B+AI+Dev;%24+stack+%E2%86%92+Flutter+%7C+Python+%7C+Flask;%24+status+%E2%86%92+Building+cool+things+%F0%9F%9A%80" alt="Typing SVG" />

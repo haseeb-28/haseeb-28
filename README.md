@@ -86,19 +86,6 @@
 
 ## 🚀 Featured Projects
 
-### 💊 SmartMeds — Medicine Management App
-> `Flutter` `Supabase` `Riverpod` `Clean Architecture`
-
-[![Modules](https://img.shields.io/badge/Modules-16-A78BFA?style=flat-square)]()
-[![State](https://img.shields.io/badge/State%20Mgmt-Riverpod-22D3EE?style=flat-square)]()
-[![Offline](https://img.shields.io/badge/Offline%20First-Yes-10B981?style=flat-square)]()
-
-- 🏗 16-module architecture: medicine tracking, reminders, family profiles, elderly mode, statistics
-- 🔌 Supabase backend with Riverpod state management, built for real production use
-- 📴 Full offline-first support for reliability without connectivity
-
----
-
 ### 🌾 Agriguard — AI Rice Disease Detection
 > `Flutter` `Flask` `PyTorch` `Supabase` `EfficientNet-B0` `REST API`
 

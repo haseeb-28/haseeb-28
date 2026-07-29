@@ -168,12 +168,13 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────┐
-│  "Code is like humor. When you have to explain it,  │
-│                    it's bad."  — Cory House          │
-└─────────────────────────────────────────────────────┘
-```
+<picture>
+ <source media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/haseeb-28/haseeb-28/main/quote-dark.svg">
+ <source media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/haseeb-28/haseeb-28/main/quote-light.svg">
+ <img alt="Code is like humor. When you have to explain it, it's bad. — Cory House" src="https://raw.githubusercontent.com/haseeb-28/haseeb-28/main/quote-light.svg">
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21&height=100&section=footer&fontColor=22D3EE" />
 

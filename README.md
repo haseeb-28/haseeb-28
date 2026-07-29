@@ -42,25 +42,6 @@
 
 ---
 
-```bash
-$ cat developer_profile.json
-```
-```json
-{
-  "name"       : "Haseeb Ur Rehman",
-  "location"   : "Islamabad, Pakistan",
-  "degree"     : "BS Information Technology — Bahria University Islamabad (Jan 2026)",
-  "focus"      : ["Flutter Development", "Data Analytics", "Full-Stack Web"],
-  "currently"  : "Open to Full-Time Roles | Freelancing on Fiverr | Exploring MS (FAST-NUCES / NUST)",
-  "portfolio"  : "https://haseeb-28.github.io/",
-  "fiverr"     : "https://www.fiverr.com/haseebx28",
-  "contact"    : "haseeb.79e@gmail.com",
-  "open_to"    : ["Full-Time Roles", "Freelance Projects", "Collaborations"]
-}
-```
-
----
-
 ## ⚡ Tech Arsenal
 
 <div align="center">
@@ -193,8 +174,6 @@ $ cat developer_profile.json
 │                    it's bad."  — Cory House          │
 └─────────────────────────────────────────────────────┘
 ```
-
-**[🌐 View My Portfolio →](https://haseeb-28.github.io/)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21&height=100&section=footer&fontColor=22D3EE" />
 
